@@ -1,3 +1,8 @@
 This file is being created on remote repository.
 This will be pulled to local repository using "pull" command.
 Then this file will be removed using git Bash.
+
+This file is now being accessed from VScode on local repository.
+Now I will commit and push this file to remote repository.
+Then I will remove it.
+
