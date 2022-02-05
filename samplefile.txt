@@ -1,0 +1,10 @@
+This file is being created on remote repository.
+This will be pulled to local repository using "pull" command.
+Then this file will be removed using git Bash.
+
+This file will not be removed anymore.
+
+I changed/modifie thisfile.
+
+I restored this file to the previous version using the restore command. 
+
