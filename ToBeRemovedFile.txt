@@ -1,0 +1,3 @@
+This file is being created on remote repository.
+This will be pulled to local repository using "pull" command.
+Then this file will be removed using git Bash.
