@@ -3,3 +3,4 @@ Hello,
 This file is created from VS Code. Command passed from GitBash: code File1.txt
 VS code is the default editor. 
 "code" in the above command is an alias.  
+I am writing this text using echo and pipeline command in git bash
