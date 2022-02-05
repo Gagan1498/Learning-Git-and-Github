@@ -1,2 +1,0 @@
-This is a junkfile. This file was removed and then added again.
-The command used was rm junkfile.txt
