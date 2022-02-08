@@ -3,4 +3,6 @@
 
 int main(){
     printf("Hello Git");
+
+    printf("THIS CHANGE DONE FOR MERGING");
 }
