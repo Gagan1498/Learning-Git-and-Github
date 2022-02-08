@@ -5,3 +5,4 @@ To clone this remote repository to my local repository, I can copy either the ht
 
 Git is interesting.
 
+This file edited for new feature
