@@ -1,0 +1,3 @@
+#Comment in remote repository
+
+This is the file that I will be using diff tool. This comment will be commited and will be uploaded to the remote repository.
